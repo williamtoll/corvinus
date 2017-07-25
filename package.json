@@ -1,0 +1,28 @@
+{
+  "name": "corvinus",
+  "version": "1.0.0",
+  "description": "Generador de aplicaciones",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamtoll/corvinus.git"
+  },
+  "keywords": [
+    "generate",
+    "corvinus",
+    "admin",
+    "dashboard"
+  ],
+  "dependencies": {
+    "socket.io": "^1.7.3"
+  },
+  "author": "Willian Toledo <corvinpy@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/williamtoll/corvinus/issues"
+  },
+  "homepage": "https://github.com/williamtoll/corvinus#readme"
+}
